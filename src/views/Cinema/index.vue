@@ -11,10 +11,10 @@
           品牌
           <i class="iconfont icon-lower-triangle"></i>
         </div>
-        <div class="feature_switch">
+        <!-- <div class="feature_switch">
           特色
           <i class="iconfont icon-lower-triangle"></i>
-        </div>
+        </div>  -->
       </div>
       <CiList />
     </div>

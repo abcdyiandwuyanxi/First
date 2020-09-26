@@ -1,0 +1,378 @@
+{
+
+    "msg": "ok",
+    "status": 0,
+    "data": {
+    "cinemas": [
+        {
+            "id": 27059,
+            "mark": 0,
+            "nm": "迈迪逊影城（大学店）",
+            "sellPrice": "14.9",
+            "addr": "金州区开发区学府大街19号金凯隆购物广场地下一层迈迪逊影城",
+            "distance": "2000.4km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": ""
+            },
+            "promotion": {
+                "cardPromotionTag": "",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 28251,
+            "mark": 0,
+            "nm": "CGV影城（安盛ScreenX店）",
+            "sellPrice": "15",
+            "addr": "金州区开发区经济技术开发区金马路189号大连安盛购物广场第五层 ",
+            "distance": "1993.7km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 0,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，9.9元起开卡",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 25506,
+            "mark": 0,
+            "nm": "华夏为莱影城（第五郡店）",
+            "sellPrice": "19.9",
+            "addr": "甘井子区张前路第五郡亿家缘广场内环二楼（实验小学旁）",
+            "distance": "1972.4km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [
+                    "4K厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "4K厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单1张最高立减2元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 1499,
+            "mark": 0,
+            "nm": "大商影城（新玛特店）",
+            "sellPrice": "19.9",
+            "addr": "中山区青三街1号新玛特购物休闲广场6F",
+            "distance": "1974.3km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减2元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 25175,
+            "mark": 0,
+            "nm": "苏宁影城（亿锋广场店）",
+            "sellPrice": "19.9",
+            "addr": "金州区开发区开发区金马路169号亿锋苏宁易购2层苏宁影城",
+            "distance": "1993.5km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单最高立减30元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 1494,
+            "mark": 0,
+            "nm": "金逸影城（福佳店）",
+            "sellPrice": "20",
+            "addr": "沙河口区西安路99号福佳新天地5楼",
+            "distance": "1972.2km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 0,
+                "giftTag": "",
+                "hallType": [
+                    "杜比全景声厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": ""
+            },
+            "promotion": {
+                "cardPromotionTag": "",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 12680,
+            "mark": 0,
+            "nm": "奥斯卡国际影城（高新店）",
+            "sellPrice": "23",
+            "addr": "甘井子区高新园区锦辉购物广场五楼（原米高梅）",
+            "distance": "1964.8km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [
+                    "4D厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "4D厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单1张最高立减4元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 2381,
+            "mark": 0,
+            "nm": "中影华臣影城（软件园店）",
+            "sellPrice": "23",
+            "addr": "沙河口区数码路南段13号锦辉商城东财书香园店2楼（近弘基书香园）",
+            "distance": "1966.5km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单1张最高立减4元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 25107,
+            "mark": 0,
+            "nm": "北联影城（大连中体店）",
+            "sellPrice": "23",
+            "addr": "甘井子区柳韵园1-13号3层",
+            "distance": "1966.7km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单1张最高立减4元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        },
+        {
+            "id": 5578,
+            "mark": 0,
+            "nm": "中影华臣影城（黑石礁富丽庭店）",
+            "sellPrice": "23",
+            "addr": "沙河口区中山路673号富丽庭生活广场3F",
+            "distance": "1967km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "giftTag": "",
+                "hallType": [],
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单1张最高立减4元",
+                "couponPromotionTag": "",
+                "merchantActivityTag": "",
+                "packShowActivityTag": "",
+                "platformActivityTag": "",
+                "starActivityTag": ""
+            },
+            "showTimes": ""
+        }
+    ],
+    "ct_pois": [
+        {
+            "ct_poi": "936879945111165696_a27059_c0",
+            "poiid": 193288026
+        },
+        {
+            "ct_poi": "936879945111165696_a28251_c1",
+            "poiid": 1433499460
+        },
+        {
+            "ct_poi": "936879945111165696_a25506_c2",
+            "poiid": 179294151
+        },
+        {
+            "ct_poi": "936879945111165696_a1499_c3",
+            "poiid": 1550081
+        },
+        {
+            "ct_poi": "936879945111165696_a25175_c4",
+            "poiid": 167066824
+        },
+        {
+            "ct_poi": "936879945111165696_a1494_c5",
+            "poiid": 1566826
+        },
+        {
+            "ct_poi": "936879945111165696_a12680_c6",
+            "poiid": 40317532
+        },
+        {
+            "ct_poi": "936879945111165696_a2381_c7",
+            "poiid": 1543598
+        },
+        {
+            "ct_poi": "936879945111165696_a25107_c8",
+            "poiid": 165628510
+        },
+        {
+            "ct_poi": "936879945111165696_a5578_c9",
+            "poiid": 2389567
+        }
+    ],
+    "paging": {
+        "hasMore": true,
+        "limit": 10,
+        "offset": 0,
+        "total": 70
+    }
+}
+}
